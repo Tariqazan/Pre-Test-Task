@@ -1,13 +1,22 @@
 A tech fair is being held in some venue called BICC Outdoor.
-It has n Aisles and m Rows; You can check on the internet for the definitions of Rows and Aisles - The seating arrangement of an
-Airplane is a perfect example to understand. However, Stalls are distributed on both sides (LEFT and RIGHT) of the Aisle. And those stalls are 
-numbered vertically, increasing from the left side of the aisle until it reaches the bottom row; once it reaches the bottom, the numbering shifts to the 
-right side and reverts to the top - please check the image for an explanation. A stall can have 1 to 4 floors, and each floor can have up to 7 Rooms. 
-And all floors of a stall have the same number of rooms. The color of a particular floor should be the same along the venue/stalls. You are provided the 
+It has n Aisles and m Rows; You can check on the internet for the definitions of 
+Rows and Aisles - 
+The seating arrangement of an
+Airplane is a perfect example to understand. 
+However, Stalls are distributed on both sides (LEFT and RIGHT)
+of the Aisle. And those stalls are 
+numbered vertically, increasing from the left side of the aisle until it 
+reaches the bottom row; once it reaches the 
+bottom, the numbering shifts to the 
+right side and reverts to the top - please check the image for an explanation. 
+A stall can have 1 to 4 floors, and each floor can have up to 7 Rooms. 
+And all floors of a stall have the same number of rooms. The color of a particular 
+floor should be the same along the venue/stalls. You are provided the 
 database fair.sql with four tables and are not allowed to modify the database.
 
 First Task is to regenerate the layout as shown in the figure shown as stalls-plan.png.
-The second task is to create the listing of rooms according to the floor, as shown in figure floor-wise-rooms.png
+The second task is to create the listing of rooms according to the floor, as shown in 
+figure floor-wise-rooms.png
 
 Candidates are free to use any framework. Commit your tasks with relevant messages. 
 Writing unit tests are highly encouraged but not mandatory. 
