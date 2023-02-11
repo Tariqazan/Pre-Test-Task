@@ -15,8 +15,7 @@ floor should be the same along the venue/stalls. You are provided the
 database fair.sql with four tables and are not allowed to modify the database.
 
 First Task is to regenerate the layout as shown in the figure shown as stalls-plan.png.
-The second task is to create the listing of rooms according to the floor, as shown in 
-figure floor-wise-rooms.png
+The second task is to create the listing of rooms according to the floor, as shown in figure floor-wise-rooms.png
 
 Candidates are free to use any framework. Commit your tasks with relevant messages. 
 Writing unit tests are highly encouraged but not mandatory. 

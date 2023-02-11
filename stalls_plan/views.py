@@ -6,4 +6,4 @@ from .models import Stalls
 
 class StallPlans(ListView):
     model = Stalls
-    template_name = 'stall_plans.html'
+    template_name = 'index.html'

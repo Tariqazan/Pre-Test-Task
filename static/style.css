@@ -2,7 +2,9 @@
     margin: 0;
     box-sizing: border-box;
 }
-
+p{
+    margin: 0 !important;
+}
 .flex {
     display: flex;
 }
@@ -47,4 +49,12 @@
 
 .aisle-row p {
     text-align: center;
+}
+
+.floor-list{
+    color: white;
+    margin: 5px 0;
+    padding: 5px 10px;
+    display: flex;
+    align-items: center;
 }
