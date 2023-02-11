@@ -14,7 +14,7 @@ create virtualenv using
 activate env
 
 # cd env/Scripts
-# activate.bat
+# activate
 
 back to the folder 
 
